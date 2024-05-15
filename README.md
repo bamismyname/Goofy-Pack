@@ -24,5 +24,5 @@ Alternatively you can find it in File Manager in the "C:\Users\User\AppData\Roam
 
 ![JAXOPANDA](https://github.com/bamismyname/Goofy-Pack/assets/95554321/d7cce673-4a63-43f6-b36b-34dbfb4f8664)
 
-Credit: BamIsMyName, Bluestrike
+Credit: BamIsMyName, Bluestrike\
 Extra: Percy, Ethan Likes Everything, Jaxon
