@@ -23,3 +23,6 @@ Alternatively you can find it in File Manager in the "C:\Users\User\AppData\Roam
 ![PERCUNNY](https://github.com/bamismyname/Goofy-Pack/assets/95554321/1774e95e-778e-4048-9f1d-56a9a7918a17)
 
 ![JAXOPANDA](https://github.com/bamismyname/Goofy-Pack/assets/95554321/d7cce673-4a63-43f6-b36b-34dbfb4f8664)
+
+Credit: BamIsMyName, Bluestrike
+Extra: Percy, Ethan Likes Everything, Jaxon
