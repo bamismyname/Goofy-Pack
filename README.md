@@ -1,4 +1,5 @@
 # Goofy Pack
+# BLUECORE EDITION
 A resource pack for Minecraft Java Edition.
 -------------------------------------------
 This is just a simple resource pack made for some friends and me, as well as the Bluecore SMP server. Feel free to use the pack either way or take textures for your own pack.
